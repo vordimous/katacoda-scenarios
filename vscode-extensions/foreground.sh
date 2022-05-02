@@ -1,5 +1,5 @@
 #!/bin/bash
-EXTENSION_DIR=/opt/.katacodacode/extensions/humao.rest-client-0.24.3
+EXTENSION_DIR=/opt/.katacodacode/extensions/wso2.ballerina-3.0.0
 while ! [ -d "$EXTENSION_DIR" ];
 do
   clear;
